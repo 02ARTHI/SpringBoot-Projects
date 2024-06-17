@@ -1,2 +1,2 @@
 # SpringBoot-Projects 
-this project has springboot 
+this project has springboot related projects
