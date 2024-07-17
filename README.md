@@ -1,2 +1,2 @@
 # SpringBoot-Projects 
-this project has basic to intermediate springboot related project
+this project has basic to intermediate springboot related projects
